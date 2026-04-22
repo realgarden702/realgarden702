@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, world 🌍
 
-<!--
-**realgarden702/realgarden702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **realgarden702**, a ml enthusiast.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Looking to collaborate on open source
+- 🧠 Lifelong learner
+- 🔭 Currently working on personal side projects
+- 🤔 Exploring new technologies
+- 🌱 Always learning new things
+
+## Tech
+
+`Next.js` `C++` `JavaScript`
+
+---
+
+_Dog person._
